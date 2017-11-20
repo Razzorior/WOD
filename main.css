@@ -8,7 +8,7 @@ html {
      position: relative;
      margin: 0 auto;
      background-color: darkred;
-     /*background-image: url("/imgs/menue_background.jpg"); */
+     background-image: url("/imgs/menue_background.jpg"); 
      padding: 2em 2em 2em 0em;
      max-width: 1920px;
 }
@@ -51,7 +51,7 @@ h2 {
 }
 
 a {
-    color: black;
+    color: white;
     text-decoration: none;
     
 }
